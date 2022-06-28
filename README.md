@@ -38,4 +38,20 @@ SAS file analyzing the proportional survival of all eggs in each replicate.
 
 ### File 8: 16S qPCR data analysis.sas
 
-SAS ffile for analyzing qPCR generated 16S copy number data
+SAS file for analyzing qPCR generated 16S copy number data
+
+### File 9: 16STaxonDiversity.xlsx
+
+16STaxonDiversity.xlsx contains the raw and organized 16S Simpson and Shannon Diversity data evaluated in SAS.  
+
+### File 10: 16sShannonSimpsonDiversity.sas
+
+SAS file for analyzing 16S Simpson and Shannon Diversity data
+
+### File 11: 18STaxonDiveristy.xlsx
+
+18STaxonDiversity.xlsx contains the raw and organized 18S Simpson and Shannon Diversity data evaluated in SAS.  
+
+### File 12: 18sShannonSimpsonDiversity.sas
+
+SAS file for analyzing 18S Simpson and Shannon Diversity data
