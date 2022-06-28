@@ -31,3 +31,11 @@ SAS file analyzing the total number of days until all eggs in each rep hatched.
 ### File 6: Proportional Survival SAS.sas
 
 SAS file analyzing the proportional survival of all eggs in each replicate. 
+
+### File 7: 16S qPCR Data.xlsx
+
+ 16S qPCR Data.xlsx contains the raw and organized qPCR generated 16S copy number data evaluated in SAS.  
+
+### File 8: 16S qPCR data analysis.sas
+
+SAS ffile for analyzing qPCR generated 16S copy number data
