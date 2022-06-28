@@ -10,24 +10,24 @@ Documentation of how interactions among members of different stream communities 
 
 ### File 1: PhenotypicAnalysis.xlsx
 
-#### PhenotypicAnalysis.xlsx contains the raw and organized data used in SAS for the phenotypic analysis of: 1. Total length (mm) at hatch; 2. Yolk-sac area (YSA, mm2) at hatch; 3. Egg diameter (mm); 4. Days until all eggs were hatched; and 5. The cumulative percent survival to hatch of all eggs by replicate. 
+PhenotypicAnalysis.xlsx contains the raw and organized data used in SAS for the phenotypic analysis of: 1. Total length (mm) at hatch; 2. Yolk-sac area (YSA, mm2) at hatch; 3. Egg diameter (mm); 4. Days until all eggs were hatched; and 5. The cumulative percent survival to hatch of all eggs by replicate. 
 
 ### File 2: Total Length at Hatch SAS.sas
 
-#### SAS file analyzing the total length (mm) of free embryos at hatch. 
+SAS file analyzing the total length (mm) of free embryos at hatch. 
 
 ### File 3: YSA at Hatch SAS.sas
 
-#### SAS file analyzing the yolk sac area (YSA) (mm2) of free embryos at hatch. 
+SAS file analyzing the yolk sac area (YSA) (mm2) of free embryos at hatch. 
 
 ### File 4: Egg Size by Time.sas
 
-#### SAS file analyzing the diameter of eggs in each replicate (mm)
+SAS file analyzing the diameter of eggs in each replicate (mm)
 
 ### File 5: Days to Hatch SAS.sas
 
-#### SAS file analyzing the total number of days until all eggs in each rep hatched.  
+SAS file analyzing the total number of days until all eggs in each rep hatched.  
 
 ### File 6: Proportional Survival SAS.sas
 
-#### SAS file analyzing the proportional survival of all eggs in each replicate. 
+SAS file analyzing the proportional survival of all eggs in each replicate. 
